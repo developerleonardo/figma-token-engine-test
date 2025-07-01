@@ -56,8 +56,8 @@ This project demonstrates **how to integrate design tokens from Figma into a Rea
     "source": ["design-tokens/**/*.json"],
     "platforms": {
       "css": {
-        "transformGroup": "css",
         "buildPath": "src/styles/tokens/",
+        "transforms": ["attribute/cti", "name/kebab", "color/hsl", "size/px"],
         "files": [
           {
             "destination": "variables.css",

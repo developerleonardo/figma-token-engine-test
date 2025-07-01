@@ -2,98 +2,98 @@
   "color": {
     "cs-black": {
       "value": "rgba(51,51,51,1)",
-      "comment": ""
+      "type": "color"
     },
     "cs-white": {
       "value": "rgba(244,244,244,1)",
-      "comment": ""
+      "type": "color"
     },
     "cs-gray": {
       "100": {
         "value": "rgba(242,242,242,1)",
-        "comment": ""
+        "type": "color"
       },
       "200": {
         "value": "rgba(224,224,224,1)",
-        "comment": ""
+        "type": "color"
       },
       "300": {
         "value": "rgba(189,189,189,1)",
-        "comment": ""
+        "type": "color"
       },
       "400": {
         "value": "rgba(130,130,130,1)",
-        "comment": ""
+        "type": "color"
       },
       "500": {
         "value": "rgba(79,79,79,1)",
-        "comment": ""
+        "type": "color"
       }
     },
     "cs-blue": {
       "300": {
         "value": "rgba(86,204,242,0.8)",
-        "comment": ""
+        "type": "color"
       },
       "400": {
         "value": "rgba(45,156,219,0.89)",
-        "comment": ""
+        "type": "color"
       },
       "500": {
         "value": "rgba(47,128,237,1)",
-        "comment": ""
+        "type": "color"
       }
     },
     "cs-green": {
       "300": {
         "value": "rgba(111,207,151,1)",
-        "comment": ""
+        "type": "color"
       },
       "400": {
         "value": "rgba(39,174,96,1)",
-        "comment": ""
+        "type": "color"
       },
       "500": {
         "value": "rgba(33,150,83,1)",
-        "comment": ""
+        "type": "color"
       }
     }
   },
   "size": {
-    "Heading": {
+    "heading": {
       "lg": {
-        "value": "48px",
-        "comment": ""
+        "value": 48,
+        "type": "dimension"
       },
       "m": {
-        "value": "40px",
-        "comment": ""
+        "value": 40,
+        "type": "dimension"
       },
       "sm": {
-        "value": "32px",
-        "comment": ""
+        "value": 32,
+        "type": "dimension"
       },
       "xs": {
-        "value": "26px",
-        "comment": ""
+        "value": 26,
+        "type": "dimension"
       }
     },
-    "Body": {
+    "body": {
       "lg": {
-        "value": "20px",
-        "comment": ""
+        "value": 20,
+        "type": "dimension"
       },
       "m": {
-        "value": "18px",
-        "comment": ""
+        "value": 18,
+        "type": "dimension"
       },
       "s": {
-        "value": "16px",
-        "comment": ""
+        "value": 16,
+        "type": "dimension"
       },
       "microscopy": {
-        "value": "12px",
-        "comment": ""
+        "value": 12,
+        "type": "dimension"
       }
     }
   }

@@ -3,19 +3,19 @@
  */
 
 :root {
-  --color-cs-black: rgba(51,51,51,1);
-  --color-cs-white: rgba(244,244,244,1);
-  --color-cs-gray-100: rgba(242,242,242,1);
-  --color-cs-gray-200: rgba(224,224,224,1);
-  --color-cs-gray-300: rgba(189,189,189,1);
-  --color-cs-gray-400: rgba(130,130,130,1);
-  --color-cs-gray-500: rgba(79,79,79,1);
-  --color-cs-blue-300: rgba(86,204,242,0.8);
-  --color-cs-blue-400: rgba(45,156,219,0.89);
-  --color-cs-blue-500: rgba(47,128,237,1);
-  --color-cs-green-300: rgba(111,207,151,1);
-  --color-cs-green-400: rgba(39,174,96,1);
-  --color-cs-green-500: rgba(33,150,83,1);
+  --color-cs-black: hsl(0, 0%, 20%);
+  --color-cs-white: hsl(0, 0%, 96%);
+  --color-cs-gray-100: hsl(0, 0%, 95%);
+  --color-cs-gray-200: hsl(0, 0%, 88%);
+  --color-cs-gray-300: hsl(0, 0%, 74%);
+  --color-cs-gray-400: hsl(0, 0%, 51%);
+  --color-cs-gray-500: hsl(0, 0%, 31%);
+  --color-cs-blue-300: hsla(195, 86%, 64%, 0.8);
+  --color-cs-blue-400: hsla(202, 71%, 52%, 0.89);
+  --color-cs-blue-500: hsl(214, 84%, 56%);
+  --color-cs-green-300: hsl(145, 50%, 62%);
+  --color-cs-green-400: hsl(145, 63%, 42%);
+  --color-cs-green-500: hsl(146, 64%, 36%);
   --size-heading-lg: 48px;
   --size-heading-m: 40px;
   --size-heading-sm: 32px;
